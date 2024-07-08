@@ -30,6 +30,7 @@ img{
     background-image: url(/imagenes/mmm.jfif);
     background-size: cover;
     background-position:0rem -8rem;
+    border-radius: 10px;
 }
 
 @keyframes color{
